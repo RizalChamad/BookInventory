@@ -1,4 +1,6 @@
 # BookInventory
+## MOCHAMAD RIZAL PRATAMA 
+## XI-TKJ-1/20 
 [![Screenshot_2017-04-16-20-08-03.png](https://s13.postimg.org/vrj958d7b/Screenshot_2017-04-16-20-08-03.png)](https://postimg.org/image/7b13arcgj/)
 [![Screenshot_2017-04-16-20-08-41.png](https://s14.postimg.org/afnq6z735/Screenshot_2017-04-16-20-08-41.png)](https://postimg.org/image/yw5w1g7tp/)
 [![Screenshot_2017-04-16-20-08-53.png](https://s2.postimg.org/essh4weqh/Screenshot_2017-04-16-20-08-53.png)](https://postimg.org/image/gxcu5zgd1/)
