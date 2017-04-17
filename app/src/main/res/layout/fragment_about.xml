@@ -18,7 +18,7 @@
             android:layout_height="@dimen/img_about"
             android:layout_gravity="center"
             android:layout_marginBottom="10dp"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@drawable/cham" />
 
         <TextView
             android:id="@+id/tvAbout"

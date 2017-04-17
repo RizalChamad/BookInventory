@@ -46,7 +46,7 @@ public class AboutFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_about, container, false);
         TextView tvAbout = (TextView) rootView.findViewById(R.id.tvAbout);
-        tvAbout.setText(Html.fromHtml("<b>Books Catalog</b><br/>Version " + getApplicationVersionName(getActivity(), getActivity().getPackageName()) + "<br/> \u00A9 2016"));
+        tvAbout.setText(Html.fromHtml("<b>Chamad Books Catalog</b><br/>Version " + getApplicationVersionName(getActivity(), getActivity().getPackageName()) + "<br/> \u00A9 RIZALCHAMAD 2016"));
 
         // Inflate the layout for this fragment
         return rootView;

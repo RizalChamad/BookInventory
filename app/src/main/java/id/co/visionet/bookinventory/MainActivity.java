@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
         switch (position) {
             case R.id.homeCatalog:
                 fragment = new HomeFragment();
-                title = "Chamad Books Catalog";
+                title = "CHAMAD BOOK CATALOG";
                 break;
             case R.id.about:
                 fragment = new AboutFragment();
