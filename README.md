@@ -10,4 +10,3 @@
 [![Screenshot_2017-04-16-20-09-16.png](https://s1.postimg.org/uxugrfpb3/Screenshot_2017-04-16-20-09-16.png)](https://postimg.org/image/76v39bp3v/)
 [![Screenshot_2017-04-16-20-09-18.png](https://s2.postimg.org/pml5s1t2h/Screenshot_2017-04-16-20-09-18.png)](https://postimg.org/image/j8w2oso6d/)
 [![Screenshot_2017-04-17-07-19-19.png](https://s3.postimg.org/6snwxfor7/Screenshot_2017-04-17-07-19-19.png)](https://postimg.org/image/vyov49q1b/)
-[![Screenshot_2017-04-17-07-22-29.png](https://s3.postimg.org/5qvdy2a9f/Screenshot_2017-04-17-07-22-29.png)](https://postimg.org/image/n45ocx5kf/)
