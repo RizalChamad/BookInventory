@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context=".activity.SplashScreen">
+    tools:context="com.cham.chamad.activity.SplashScreen">
 
     <RelativeLayout
         android:layout_width="fill_parent"

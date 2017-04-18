@@ -6,7 +6,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "id.co.visionet.bookinventory"
+        applicationId "com.cham.chamad"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
